@@ -1,8 +1,8 @@
 /*
 
-Scott Edwards Serial LCD Backpack Library - Hello World
+Scott Edwards Serial LCD Backpack Library - Serial Display
 
-This sketch prints "Hello World!" to the LCD and shows the time.
+This sketch displays text sent  via serial port on the LCD
 
 The circuit:
 * LCD Serial pin to digital pin 11
